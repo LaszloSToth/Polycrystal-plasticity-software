@@ -1,0 +1,113 @@
+HCP slip systems and twinning systems as defined by four Miller indeces
+Chosen c/a ratio:    1.856   (Other c/a ratios:  1.886 Cd, 1.856 Zn, 1.624 Mg, 1.621 Co, 1.593 Zr, 1.587 Ti, 1.568 Be)
+hardening parameters:
+1.0  0.  252.51  2.08   2.  2.    : gam0, h0=1700, tausat, a
+1.  1.4  1.4  1.4     : q1: coplanar, q2: colinear, q3: perpendic. ,q4:other 
+
+Basal systems (hkil)[uvtw]...  3 
+Reference critical resolved shear stress and shear strain (if twinning): 
+1.      0.
+1       0  0  0  1    1 -2  1  0
+2       0  0  0  1    2 -1 -1  0
+3       0  0  0  1    1  1 -2  0
+
+Prismatic systems............  3 
+Reference critical resolved shear stress and shear strain (if twinning):  
+1.      0.
+1       1  0 -1  0   -1  2 -1  0      0ø
+2       1 -1  0  0    1  1 -2  0     +60ø
+3       0 -1  1  0    2 -1 -1  0     +120ø
+
+<a> type pyramidal systems...  6
+Reference critical resolved shear stress and shear strain (if twinning): 
+0.      0.
+1       1  0 -1  1   -1  2 -1  0      0ø
+2       1 -1  0  1    1  1 -2  0     +60ø
+3       0 -1  1  1    2 -1 -1  0     +120ø
+4      -1  0  1  1    1 -2  1  0     +180ø
+5      -1  1  0  1   -1 -1  2  0     +240ø
+6       0  1 -1  1   -2  1  1  0     +300ø
+
+<c+a>/A pyramidal systems.... 12
+Reference critical resolved shear stress and shear strain (if twinning): 
+0.      0.
+1       1  0 -1  1    2 -1 -1 -3
+2       1  0 -1  1    1  1 -2 -3
+3       0  1 -1  1    1  1 -2 -3
+4       0  1 -1  1   -1  2 -1 -3
+5      -1  1  0  1   -1  2 -1 -3
+6      -1  1  0  1   -2  1  1 -3
+7      -1  0  1  1   -2  1  1 -3
+8      -1  0  1  1   -1 -1  2 -3
+9       0 -1  1  1   -1 -1  2 -3
+10      0 -1  1  1    1 -2  1 -3
+11      1 -1  0  1    1 -2  1 -3
+12      1 -1  0  1    2 -1 -1 -3
+
+<c+a>/B pyramidal sustems.... 12
+Reference critical resolved shear stress and shear strain (if twinning):    
+0.      0.
+1       2 -1 -1  2   -2  4 -2  3
+2       2 -1 -1  2   -2 -2  4  3
+3       1 -2  1  2    2  2 -4  3    
+4       1 -2  1  2   -4  2  2  3    
+5      -1 -1  2  2    4 -2 -2  3    
+6      -1 -1  2  2   -2  4 -2  3    
+7      -2  1  1  2    2 -4  2  3    
+8      -2  1  1  2    2  2 -4  3    
+9      -1  2 -1  2   -2 -2  4  3    
+10     -1  2 -1  2    4 -2 -2  3     
+11      1  1 -2  2   -4  2  2  3     
+12      1  1 -2  2    2 -4  2  3     
+
+{1  0 -1  2} < 1 0 -1 -1>....  6 
+Reference critical resolved shear stress and shear strain (if twinning):  
+0.      0.167    (0.167)
+1       1  0 -1  2    1  0 -1 -1         
+2       0  1 -1  2    0  1 -1 -1
+3      -1  1  0  2   -1  1  0 -1         compression twins
+4      -1  0  1  2   -1  0  1 -1
+5       0 -1  1  2    0 -1  1 -1
+6       1 -1  0  2    1 -1  0 -1
+
+{1  1 -2  1} <-1 -1 2  6>....  6 
+Reference critical resolved shear stress and shear strain (if twinning):  
+0.      0.
+1       1  1 -2  1   -1 -1  2  6
+2       2 -1 -1  1   -2  1  1  6
+3       1 -2  1  1   -1  2 -1  6
+4      -1 -1  2  1    1  1 -2  6
+5      -2  1  1  1    2 -1 -1  6
+6      -1  2 -1  1    1 -2  1  6
+
+{1  1 -2  2} <-1 -1 2  3>....  6 
+Reference critical resolved shear stress and shear strain (if twinning):  
+1.      0.225     (0.225)
+1      -1 -1  2  2   -1 -1  2 -3           
+2      -2  1  1  2   -2  1  1 -3      60ø
+3      -1  2 -1  2   -1  2 -1 -3     120ø
+4       1  1 -2  2    1  1 -2 -3     180ø
+5       2 -1 -1  2    2 -1 -1 -3     240ø
+6       1 -2  1  2    1 -2  1 -3     300ø
+
+{1  0 -1  1} <-1 0  1  2>....  6
+Reference critical resolved shear stress and shear strain (if twinning):  
+0.      0.
+1       1  0 -1  1    1  0 -1 -2
+2       0  1 -1  1    0  1 -1 -2
+3      -1  1  0  1   -1  1  0 -2
+4      -1  0  1  1   -1  0  1 -2
+5       0 -1  1  1    0 -1  1 -2
+6       1 -1  0  1    1 -1  0 -2
+
+{1  0 -1  3} <-3 0  3  2>....  6 
+Reference critical resolved shear stress and shear strain (if twinning):  
+0.      0.
+1       1  0 -1  3    3  0 -3 -2
+2       0  1 -1  3    0  3 -3 -2
+3      -1  1  0  3   -3  3  0 -2
+4      -1  0  1  3   -3  0  3 -2
+5       0 -1  1  3    0 -3  3 -2
+6       1 -1  0  3    3 -3  0 -2
+
+end of systems
