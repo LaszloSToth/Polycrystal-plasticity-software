@@ -1,0 +1,11 @@
+C *****************************************************************************
+C     POLYCR.DIM      --->      VERSION 01/JUN/2000
+C     COMMON & PARAMETERS TO BE INCLUDED DURING COMPILATION OF POLYCR and INCREM
+C *****************************************************************************
+
+
+      PARAMETER(NGRMX =20000)  ! MAXIMUM # OF GRAINS OVER ALL PHASES or ELEMS
+      PARAMETER(NSYSMX =24)    ! MAXIMUM # OF ACTIVE SL+TW SYSTEMS
+	   
+
+      
